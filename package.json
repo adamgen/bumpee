@@ -2,5 +2,8 @@
   "name": "bumpee",
   "version": "1.0.1",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/adamgen/bumpee"
+  },
   "license": "MIT"
 }
